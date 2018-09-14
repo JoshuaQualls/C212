@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AllPrime {
+public class Homework04AllPrime {
 
  public static boolean checkNumber(int a) {
   for (int i = 2; i < a; i++) {
