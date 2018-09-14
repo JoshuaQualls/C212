@@ -30,7 +30,7 @@ public class Homework04FactorGenertator{
   public static void main(String[] args){
     Scanner in = new Scanner(System.in);
     int number = in.nextInt();
-    FactorGenerator x = new FactorGenerator(number);
+    Homework04FactorGenerator x = new Homework04FactorGenerator(number);
     x.getFactor();
     in.close();
   }
