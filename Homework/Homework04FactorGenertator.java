@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FactorGenertator{
+public class Homework04FactorGenertator{
   int numberToFactor;
   
   FactorGenerator(int numberToFactor){
