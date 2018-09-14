@@ -1,7 +1,7 @@
 import java.awt.Graphics;
 import javax.swing.JFrame;
 
-public class HW02 {
+public class Homework02 {
   public static void main(String[] args) {
     JFrame a = new JFrame(); 
     int width, height;
