@@ -8,7 +8,7 @@ public class Homework04FactorGenerator{
   }
   
   public static void getFactors() { 
-    for(int i = 2; i <= numberToFactor ; i++){
+    for(int i = 2; i <= numberToFactor-1 ; i++){
       if(numberToFactor % i == 0)
         System.out.println(i);
     }
