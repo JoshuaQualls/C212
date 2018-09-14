@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class DiceGame {
+public class Homework04DiceGame {
   static Random rand = new Random();
   static int wins = 0;
   static int losses = 0;
