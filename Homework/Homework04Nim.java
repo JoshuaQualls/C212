@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Homework4Nim {
+public class Homework04Nim {
   static Random rand = new Random();
   static int pileSize, choosePlayer, intelligence, lastPicked, halfPile;
   
