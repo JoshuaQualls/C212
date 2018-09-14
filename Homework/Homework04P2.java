@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class P2 {
+public class Homework04P2 {
 
  static int count = 0;
  static double sum = 0;
