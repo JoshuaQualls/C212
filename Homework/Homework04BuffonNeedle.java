@@ -1,5 +1,5 @@
 import java.util.Random;
-public class BuffonNeedle { 
+public class Homework04BuffonNeedle { 
   public static double checkBN(){
     Random rand = new Random() ; 
     int yLow = rand.nextInt(3) ; 
